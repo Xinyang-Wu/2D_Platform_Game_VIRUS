@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: cf5d19dcbba223d4295eda6bf74ec7bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2918883271228158537
+    second: 3DS - Tomodachi Life - Stomach Virus_0
+  - first:
+      213: -1791658374154793860
+    second: 3DS - Tomodachi Life - Stomach Virus_1
+  - first:
+      213: 6553032826346252050
+    second: 3DS - Tomodachi Life - Stomach Virus_2
+  - first:
+      213: 6708570061355596746
+    second: 3DS - Tomodachi Life - Stomach Virus_3
+  - first:
+      213: 2854555414443031738
+    second: 3DS - Tomodachi Life - Stomach Virus_4
+  - first:
+      213: 738660669323838842
+    second: 3DS - Tomodachi Life - Stomach Virus_5
+  - first:
+      213: 4824597331534742915
+    second: 3DS - Tomodachi Life - Stomach Virus_6
+  - first:
+      213: -3839546554917068744
+    second: 3DS - Tomodachi Life - Stomach Virus_7
+  - first:
+      213: 6165198629757265403
+    second: 3DS - Tomodachi Life - Stomach Virus_8
+  - first:
+      213: -8323540581605260889
+    second: 3DS - Tomodachi Life - Stomach Virus_9
+  - first:
+      213: 4964166415954327478
+    second: 3DS - Tomodachi Life - Stomach Virus_10
+  - first:
+      213: -1729152762814093868
+    second: 3DS - Tomodachi Life - Stomach Virus_11
+  - first:
+      213: 6714481770157109222
+    second: 3DS - Tomodachi Life - Stomach Virus_12
+  - first:
+      213: -2286152242598645122
+    second: 3DS - Tomodachi Life - Stomach Virus_13
+  - first:
+      213: 1526395438816798363
+    second: 3DS - Tomodachi Life - Stomach Virus_14
+  - first:
+      213: -989555553655809545
+    second: 3DS - Tomodachi Life - Stomach Virus_15
+  - first:
+      213: -5378666715101450207
+    second: 3DS - Tomodachi Life - Stomach Virus_16
+  - first:
+      213: -7436581705704562695
+    second: 3DS - Tomodachi Life - Stomach Virus_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 1
+  spritePivot: {x: 0, y: 1}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 151
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8206379aba7d18c448da2038813b5501
+      internalID: 2918883271228158537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 154
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d76aaf96b1ad444995087cf7cf7ec4
+      internalID: -1791658374154793860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 151
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e3feb648cab34db69017d38ca9578
+      internalID: 6553032826346252050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 151
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e3c3b3da6364148b8c98b8192e58d5
+      internalID: 6708570061355596746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 148
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa6603dab95764c8829f83410ff4b7
+      internalID: 2854555414443031738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2469d6daea8986242baf3178491f30cf
+      internalID: 738660669323838842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 87
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26f094ad6ecaa34da1b6ca3ee1dece2
+      internalID: 4824597331534742915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abc1cca0314acb4f95df54987da8312
+      internalID: -3839546554917068744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 102
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719069f08ad682c44803989ddd5a57bf
+      internalID: 6165198629757265403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 107
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515228a20f0dbab4f847e4e113177bfe
+      internalID: -8323540581605260889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 122
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0955f06e6cb126942a27dfceb2d74853
+      internalID: 4964166415954327478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 101
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447c4aed197c2d14ca4d241a16f49b70
+      internalID: -1729152762814093868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 117
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91a68a8d5664d44823654426b5c403
+      internalID: 6714481770157109222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 109
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2166dd9ec321d2549bffcf65af8068da
+      internalID: -2286152242598645122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd6b2d4a3702e41800ee0056d340ed
+      internalID: 1526395438816798363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 105
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295ad0b78ba214a40a1dc24e6c893298
+      internalID: -989555553655809545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 101
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475dff11ebf354a4ebc98b5687425a35
+      internalID: -5378666715101450207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Tomodachi Life - Stomach Virus_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 213
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5599f8877bf6dfb45a4f4f2befa6f47f
+      internalID: -7436581705704562695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
